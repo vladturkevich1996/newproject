@@ -1,0 +1,9 @@
+Filled container. 
+Container contents 5 elements.
+0: Tunec It is the fish. It lives in a river.
+1: Karas It is the fish. It lives in a sea.
+2: Shuka It is the fish. It lives in a lake.
+3: Vorobey It is the Bird. And is not migratory.
+4: Aist It is the Bird. And is migratory.
+Empty container. 
+Container contents 0 elements.
